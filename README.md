@@ -14,7 +14,7 @@
 
 ### My Recent Internship
 
-- Checkout my software engineer internship performance review at [Acertara](https://acertaralabs.com/) - [Performance Review 2022](https://drive.google.com/file/d/1C4JvvOJ-NbgGnz_S2PMzCzJZU5T7Y1m8/view?usp=sharing)
+- Checkout my software engineer internship performance review from [Acertara](https://acertaralabs.com/) - [Performance Review 2022](https://drive.google.com/file/d/1C4JvvOJ-NbgGnz_S2PMzCzJZU5T7Y1m8/view?usp=sharing)
 
 <!---
 cgaona1/cgaona1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
